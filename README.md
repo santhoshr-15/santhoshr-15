@@ -1,158 +1,200 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Santhosh Kumar R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=Santhosh%20Kumar%20R&fontSize=48&fontColor=38BDF8&fontAlignY=38&desc=Cyber%20Security%20%7C%20AI%2FML%20%7C%20Python%20%7C%20CTF%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
-### 🔐 Cyber Security Student | 🤖 AI/ML Enthusiast | 🐍 Python Developer
+<br>
 
-<p>
-  <a href="https://github.com/santhoshr-15">
-    <img src="https://img.shields.io/badge/GitHub-santhoshr--15-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://santhosh-upwork.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+<a href="https://github.com/santhoshr-15">
+<img src="https://img.shields.io/badge/GitHub-santhoshr--15-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://santhosh-upwork.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_MEDIUM_URL">
+<img src="https://img.shields.io/badge/Medium-Articles-111827?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=santhoshr-15&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ========================= ABOUT ME ========================= -->
 
-🎓 Final-year **B.E. Computer Science and Engineering (Cyber Security)** student at  
-**Saveetha Engineering College, Chennai**
+## 👋 About Me
 
-🔐 Interested in **Cyber Security, Web Application Security, and Offensive Security**
+<table>
+<tr>
+<td width="60%">
 
-🤖 Exploring **Artificial Intelligence, Machine Learning, and Agentic AI**
+🎓 **Final-year B.E. Computer Science & Engineering (Cyber Security)** student at **Saveetha Engineering College, Chennai**.
 
-🐍 Building practical projects using **Python, Linux, networking, AI/ML, and security concepts**
+🔐 Interested in **Cyber Security, Web Application Security, CTFs, and Offensive Security**.
 
-🏴‍☠️ Passionate about **CTFs, cybersecurity challenges, and security research**
+🤖 Exploring **Artificial Intelligence, Machine Learning, and Agentic AI**.
 
-💡 I enjoy turning ideas into practical projects and continuously improving my technical skills.
+🐍 Building practical projects with **Python, Linux, networking, AI/ML, and security concepts**.
 
----
+🏴‍☠️ Passionate about **CTF challenges, cybersecurity research, and solving technical problems**.
 
-## 🛠️ Technical Skills
+🚀 I enjoy building projects, participating in competitions, and continuously improving my technical skills.
 
-### 🔐 Cyber Security
-<p>
-  <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NIST%20IR-111111?style=for-the-badge" />
-</p>
+</td>
 
-### 💻 Programming & Development
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<td width="40%">
 
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+```text
+┌──────────────────────────┐
+│       SANthosh R         │
+├──────────────────────────┤
+│ 🔐 Cyber Security        │
+│ 🤖 AI / ML               │
+│ 🐍 Python                │
+│ 🏴‍☠️ CTFs                 │
+│ 💻 Problem Solving       │
+│ 🚀 Project Building      │
+└──────────────────────────┘
+</td> </tr> </table>
+<!-- ========================= WHAT I WORK ON ========================= -->
+🧠 What I Work On
+<div align="center">
+🔐 Cyber Security	🤖 Artificial Intelligence	💻 Development
+Web Security	Machine Learning	Python
+CTFs	Computer Vision	FastAPI
+Offensive Security	OCR	Flask
+Security Research	Agentic AI	Git & GitHub
+</div>
+<!-- ========================= TECH STACK ========================= -->
+🛠️ Tech Stack
+🔐 Cyber Security
+<p align="center"> <img src="https://img.shields.io/badge/Web%20Security-0f172a?style=for-the-badge&logo=owasp&logoColor=white"/> <img src="https://img.shields.io/badge/CTF-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0f172a?style=for-the-badge"/> <img src="https://img.shields.io/badge/NIST%20IR-0f172a?style=for-the-badge"/> </p>
+💻 Programming
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,linux" /> </p>
+🤖 AI / Machine Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /> </p> <p align="center"> <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OCR-0f172a?style=for-the-badge"/> </p>
+🌐 Frameworks & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,html,css,tailwind" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=googlecolab,vscode,docker" /> </p>
+<!-- ========================= FEATURED PROJECTS ========================= -->
+🚀 Featured Projects
+<div align="center">
+🛡️ Cyber Guardian
 
-### 🌐 Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Cyber Guardian
-**Malware Detection & Cyber Security Platform**
+Malware Detection & Cyber Security Platform
 
 A security-focused project exploring malware detection and cybersecurity concepts.
 
----
+<a href="https://github.com/santhoshr-15"> <img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github"/> </a>
+🧠 DeepInsight AI
 
-### 🧠 DeepInsight AI
-**Agentic AI Project**
+Agentic AI Project
 
-An AI-based project focused on intelligent reasoning and automated workflows.
+An AI-focused project exploring intelligent reasoning, automation, and agentic workflows.
 
----
+<a href="https://github.com/santhoshr-15"> <img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github"/> </a>
+🩺 ARTHROCARE AI
 
-### 🩺 ARTHROCARE AI
-**Medical Document & Lab Report Processing**
+AI-Powered Document & Lab Report Processing
 
-AI-powered document processing using OCR and machine learning technologies.
+A project using OCR and AI-based document processing techniques for handling medical reports and extracted information.
 
----
+<a href="https://github.com/santhoshr-15"> <img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github"/> </a>
+🚦 Smart Traffic Detection
 
-### 🚦 Smart Traffic Detection
-**Traffic Detection & Congestion Classification using YOLOv8**
+Traffic Detection & Congestion Classification using YOLOv8
 
-Computer vision project for detecting traffic-related objects and analyzing traffic conditions.
+A computer vision project focused on traffic detection and analysis using YOLOv8.
 
----
+<a href="https://github.com/santhoshr-15/smart-traffic-detection"> <img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge&logo=github"/> </a>
+🤖 FlipIQ
 
-### 🤖 FlipIQ
-**Flipkart Grid 6.0 Robotic Challenge**
+Flipkart GRID 6.0 Robotic Challenge
 
-A robotics-focused project developed as part of the Flipkart Grid 6.0 challenge.
+A robotics-focused project developed as part of the Flipkart GRID 6.0 challenge.
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Top 10** — 24-Hour CTF, Prathyusha Engineering College
-- 🏅 **26th Rank** — Technex CTF Challenge, IIT (BHU)
-- 🏅 **26th Rank** — DEFCON Coimbatore CTF
-- 🏅 **Top 50** — Dhurandhar CTF
-- 🤖 **Finalist** — NASSCOM Agentic AI Hackathon
-- 🚀 **Semi-Finalist** — Flipkart GRID 6.0
-
----
-
-## 📊 GitHub
-
+<a href="https://github.com/santhoshr-15/FlipIQ"> <img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge&logo=github"/> </a> </div>
+<!-- ========================= ACHIEVEMENTS ========================= -->
+🏆 Achievements
+<div align="center">
+🏅 Achievement	Event
+🥇 Top 10	24-Hour CTF — Prathyusha Engineering College
+🏅 26th Rank	Technex CTF Challenge — IIT (BHU)
+🏅 26th Rank	DEFCON Coimbatore CTF
+🏅 Top 50	Dhurandhar CTF
+🤖 Finalist	NASSCOM Agentic AI Hackathon
+🚀 Semi-Finalist	Flipkart GRID 6.0
+</div>
+<!-- ========================= CURRENT FOCUS ========================= -->
+🎯 Current Focus
+<div align="center">
+              ┌──────────────────────┐
+              │    CYBER SECURITY    │
+              └──────────┬───────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ WEB APPLICATION      │
+              │ SECURITY             │
+              └──────────┬───────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ CTFs & OFFENSIVE     │
+              │ SECURITY             │
+              └──────────┬───────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ AI / MACHINE         │
+              │ LEARNING             │
+              └──────────┬───────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │ AGENTIC AI &         │
+              │ SECURITY             │
+              └──────────────────────┘
+</div>
+<!-- ========================= CURRENTLY LEARNING ========================= -->
+🌱 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/Advanced%20Web%20Security-0f172a?style=for-the-badge"/> <img src="https://img.shields.io/badge/CTF%20Techniques-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20AI-0ea5e9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Machine%20Learning-2563eb?style=for-the-badge"/> <img src="https://img.shields.io/badge/Linux%20%26%20Networking-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/Secure%20Development-0f172a?style=for-the-badge"/> </p>
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santhoshr-15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshr-15&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=santhoshr-15&theme=tokyonight&hide_border=true" /> </div>
+<!-- ========================= CONTRIBUTION GRAPH ========================= -->
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshr-15&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%"/> </div>
+<!-- ========================= WHAT I ENJOY ========================= -->
+📚 What I Enjoy
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santhoshr-15&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshr-15&theme=tokyonight&hide_border=true" />
+🔐 Security Research
+  •  
+🏴‍☠️ CTF Challenges
+  •  
+🤖 AI Projects
+  •  
+💻 Problem Solving
+  •  
+🚀 Hackathons
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
+<!-- ========================= CONNECT ========================= -->
+🤝 Let's Connect
+<div align="center"> <a href="https://github.com/santhoshr-15"> <img src="https://img.shields.io/badge/GitHub-santhoshr--15-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_MEDIUM_URL"> <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/> </a> <a href="https://santhosh-upwork.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </div>
 <div align="center">
+💻 Build • Break • Learn • Secure
 
-[![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santhoshr-15&theme=tokyo-night&hide_border=true)](https://github.com/santhoshr-15)
+Thanks for visiting my profile!
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-Cyber Security
-      ↓
-Web Application Security
-      ↓
-CTFs & Offensive Security
-      ↓
-AI / Machine Learning
-      ↓
-Agentic AI & Security
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/> </div> ```
