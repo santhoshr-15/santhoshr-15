@@ -158,24 +158,10 @@
 <table align="center" width="90%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 DeepInsight AI</h3>
-      <p><em>Agentic AI / Artificial Intelligence</em></p>
-      <p>An AI-focused project exploring intelligent research, reasoning, and agentic workflows.</p>
-      <a href="https://github.com/santhoshr-15"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 ARTHROCARE AI</h3>
-      <p><em>Computer Vision / OCR / AI</em></p>
-      <p>An AI/OCR-based project for processing medical/lab-related documents and extracting useful information.</p>
-      <a href="https://github.com/santhoshr-15"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚦 Smart Traffic Detection</h3>
-      <p><em>Computer Vision / YOLOv8</em></p>
-      <p>A computer vision project focused on traffic detection and congestion-related analysis using YOLOv8.</p>
-      <a href="https://github.com/santhoshr-15/smart-traffic-detection"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
+      <h3>☀️ SolarSight</h3>
+      <p><em>AI-Powered Solar Panel Fault Detection & Constrained Visual Reasoning</em></p>
+      <p>SolarSight uses a fine-tuned RT-DETR-L object detector to identify solar-panel conditions and a lightweight constrained reasoning layer to answer natural-language questions using structured visual evidence.</p>
+      <a href="https://github.com/santhoshr-15/SolarSight"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 FlipIQ</h3>
@@ -185,11 +171,25 @@
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Quish-Guard AI</h3>
+      <p><em>Zero-Click QR Phishing Defense</em></p>
+      <p>Quish-Guard AI is a real-time, zero-click security tool designed to detect and block QR code phishing (Quishing) attempts. It employs a 4-Layer Defense-in-Depth Engine to analyze infrastructure, encryption, and behavior.</p>
+      <a href="https://github.com/santhoshr-15/Quish-Guard-AI"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 DeepInsight AI</h3>
+      <p><em>Autonomous Multi-Agent Research Intelligence Platform</em></p>
+      <p>An AI-focused project exploring intelligent research, reasoning, and autonomous multi-agent workflows.</p>
+      <a href="https://github.com/santhoshr-15/DeepInsight-AI"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
+    </td>
+  </tr>
+  <tr>
     <td width="100%" valign="top" colspan="2" align="center">
-      <h3>🛡️ Cyber Guardian</h3>
-      <p><em>Cyber Security / Malware Detection</em></p>
-      <p>A cybersecurity-focused project exploring malware detection and core security concepts.</p>
-      <a href="https://github.com/santhoshr-15"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
+      <h3>🩺 ArthroCare AI</h3>
+      <p><em>Intelligent Clinical Decision Support for Rheumatoid Arthritis</em></p>
+      <p>Personalized Risk Prediction, Longitudinal Monitoring & AI-Powered Lifestyle Guidance.</p>
+      <a href="https://github.com/santhoshr-15/arthrocare-ai"><img src="https://img.shields.io/badge/View_Project-020617?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=0F172A" alt="View Project"/></a>
     </td>
   </tr>
 </table>
