@@ -1,6 +1,6 @@
 <!-- ========================= HERO SECTION ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:0f172a,100:020617&height=250&section=header&text=Santhosh%20Kumar%20R&fontSize=52&fontColor=06b6d4&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Computer%20Vision%2C%20Machine%20Learning%20%7C%20Python%20%7C%20Computer%20Science&descAlignY=55&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=250&section=header&text=Santhosh%20Kumar%20R&fontSize=52&fontColor=38bdf8&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20AI%2FML%20%26%20Vision%20%7C%20Computer%20Science&descAlignY=55&descSize=18" width="100%" alt="Header" />
   <br><br>
   
   <a href="https://github.com/santhoshr-15">
@@ -36,7 +36,7 @@
       <p>My GitHub showcases a diverse mixture of my ongoing journey across Cyber Security, Computer Vision, AI, and Software Development.</p>
     </td>
     <td width="35%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=santhoshr-15&show_icons=true&theme=dracula&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=santhoshr-15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
 </table>
@@ -279,12 +279,12 @@
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshr-15&layout=compact&theme=dracula&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshr-15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=santhoshr-15&theme=dracula&hide_border=true&background=0F172A&ring=06B6D4&fire=06B6D4&currStreakNum=06B6D4" alt="GitHub Streak" />
   
   <br><br>
   <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshr-15&bg_color=0f172a&color=06b6d4&line=06b6d4&point=ffffff&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshr-15&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
 </div>
 
 <br>
