@@ -1,6 +1,6 @@
 <!-- ========================= HERO SECTION ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=250&section=header&text=Santhosh%20Kumar%20R&fontSize=52&fontColor=38bdf8&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20AI%2FML%20%26%20Vision%20%7C%20Computer%20Science&descAlignY=55&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=Santhosh%20Kumar%20R&fontSize=48&fontColor=38BDF8&fontAlignY=38&desc=Cyber%20Security%20%7C%20AI%2FML%20%7C%20Python%20%7C%20CTF%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="Header" />
   <br><br>
   
   <a href="https://github.com/santhoshr-15">
@@ -29,14 +29,11 @@
 
 <table align="center" width="90%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="100%" valign="top">
       <p>I am a final-year <b>B.E. Computer Science and Engineering (Cyber Security)</b> student at Saveetha Engineering College, Chennai.</p>
       <p><b>Cyber Security is my primary area of interest.</b> My core focus in this space revolves around Web Application Security, Capture The Flag (CTF) challenges, Offensive Security, and security-focused problem solving.</p>
       <p>Alongside cybersecurity, I am actively building projects and expanding my knowledge across multiple domains in Computer Science. I strongly enjoy applying <b>Computer Vision, Machine Learning, and Artificial Intelligence</b> to practical problems. My tech stack relies heavily on Python for automation, model development, and backend software engineering.</p>
       <p>My GitHub showcases a diverse mixture of my ongoing journey across Cyber Security, Computer Vision, AI, and Software Development.</p>
-    </td>
-    <td width="35%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=santhoshr-15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
 </table>
@@ -276,18 +273,6 @@
 
 <br>
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshr-15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=santhoshr-15&theme=dracula&hide_border=true&background=0F172A&ring=06B6D4&fire=06B6D4&currStreakNum=06B6D4" alt="GitHub Streak" />
-  
-  <br><br>
-  <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshr-15&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
-</div>
-
-<br>
 
 <!-- ========================= CONNECT ========================= -->
 <div align="center">
